@@ -7,7 +7,7 @@
 - [ ] Création d'un moodboard
 - [ ] Création d'elements 2D avec Piskle et Gimp
 
-### Piskel
+### Piskel 32 x 32
 
 - [ ] minimum 1 joueur et son ennemi en 32 x 32
 - [ ] 4 objets en  32 x 32
@@ -15,7 +15,7 @@
 - [ ] mix des créations en pixel art
 
 
-### GIMP
+### GIMP 800 x 600
 
 - [ ] Un personnage de jeu en plusieurs calques
 - [ ] un terrain avec plusieurs calques
