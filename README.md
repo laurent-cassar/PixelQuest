@@ -11,7 +11,7 @@
 
 - [x] minimum 1 joueur et son ennemi en 32 x 32
 - [ ] 4 objets en  32 x 32
-- [ ] un environnement 2D avec des objets + joueurs/ennemis
+- [x] un environnement 2D avec des objets + joueurs/ennemis
 - [ ] mix des créations en pixel art
 
 
