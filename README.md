@@ -19,6 +19,6 @@
 ### GIMP 800 x 600
 
 - [x] Un personnage de jeu en plusieurs calques
-- [ ] un terrain avec plusieurs calques
+- [x] un terrain avec plusieurs calques
 - [ ] un objet spécifique
 
