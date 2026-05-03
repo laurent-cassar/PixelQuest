@@ -6,7 +6,7 @@
 
 - [x] Création d'un moodboard
 - [x] Création d'elements 2D avec Piskel
-- [ ] Création d'elements 2D avec GIMP
+- [x] Création d'elements 2D avec GIMP
 
 ### Piskel 32 x 32
 
@@ -20,5 +20,5 @@
 
 - [x] Un personnage de jeu en plusieurs calques
 - [x] un terrain avec plusieurs calques
-- [ ] un objet spécifique
+- [x] un objet spécifique
 
